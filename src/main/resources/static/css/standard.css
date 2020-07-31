@@ -1,0 +1,37 @@
+body{
+	background-color: #000000;
+}
+
+.container{
+	background-color: #7d0707;
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px; 
+} 
+
+li {
+	list-style-type: none;
+}
+
+h1 {
+	text-align: center;	
+	color: #ffffff;
+}
+
+h3 {
+	text-align: center;	
+	color: #ffffff;
+}
+
+.navbar {
+	background-color: #7d0707;
+	color: #000000;
+}
+
+.navbar>.container-fluid .navbar-brand {
+	color: #000000;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000000;
